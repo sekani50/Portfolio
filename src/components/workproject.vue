@@ -1,20 +1,20 @@
 <!-- eslint-disable -->
 <template>
   <div
-    class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FCF2E8] shadow-lg rounded-lg sm:rounded-xl px-4"
+    class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FFFFFF] shadow-lg rounded-lg sm:rounded-xl px-4"
   >
     
 
     <div class="mx-auto w-11/12 space-y-6">
-      <p class="text-sm sm:text-lg font-semibold">YouTube Clone</p>
+      <p class="text-sm sm:text-lg lg:text-[15px] font-semibold">YouTube Clone</p>
 
       <div class="w-4/5 h-2/3 rounded-md sm:w-3/4 sm:h-1/2">
         <img class="rounded-md "  src="@/assets/images/Screenshot (247).png" />
       </div>
-      <div class="text-sm sm:text-lg space-y-3">
+      <div class="text-sm sm:text-lg lg:text-[15px] space-y-3">
         <p>
           Project link:
-          <a class="text-blue-600" href="https://preemytclone.netlify.app/"
+          <a class="text-blue-600" href="https://preemytclone.netlify.app/" target="_blank"
             >https://preemytclone.netlify.app/</a
           >
         </p>

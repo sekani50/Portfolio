@@ -1,7 +1,7 @@
 <!-- eslint-disable -->
 <template>
   <div
-    class=" lg:fixed transform transition-all duration-300 ease-linear relative lg:w-[33%] h-fit bg-[#FCF2E8] shadow-lg pt-2 pb-8 rounded-lg sm:rounded-xl px-6 space-y-10 "
+    class=" lg:fixed transform transition-all duration-300 ease-linear relative lg:w-[33%] h-fit bg-[#FFFFFF] shadow-lg pt-2 pb-8 rounded-lg sm:rounded-xl px-6 space-y-10 "
   >
   <div class="w-11/12">
     <div class="rounded-full h-52 w-52 ml-10 lg:mx-auto">
@@ -21,7 +21,7 @@
       </p>
 
       <div
-        class="text-zinc-700 leading-6 lg:leading-7 sm:leading-10 bg-black bg-opacity-10 sm:text-lg text-sm p-3 rounded-l-none sm:rounded-l-none   sm:rounded-r-lg rounded-md sm:rounded-lg border-l-4 border-l-[#3452FF]"
+        class="text-zinc-700 leading-6 lg:leading-7 sm:leading-10 bg-black bg-opacity-10 sm:text-lg text-sm lg:text-[15px] p-3 rounded-l-none sm:rounded-l-none   sm:rounded-r-lg rounded-md sm:rounded-lg border-l-4 border-l-[#3452FF]"
       >
         I'm a frontend developer with experience in developing and designing
         complex web applications. I possess strong problem-solving and
@@ -29,7 +29,7 @@
         technologies
       </div>
       <div class="sm:space-y-6 space-y-3 lg:space-y-3">
-        <div class="flex space-x-2 p-3 text-zinc-700 rounded-md sm:rounded-lg sm:text-lg text-sm w-full bg-opacity-10 bg-black">
+        <div class="flex space-x-2 p-3 lg:text-[15px] text-zinc-700 rounded-md sm:rounded-lg sm:text-lg text-sm w-full bg-opacity-10 bg-black">
           <span class="" v-html="images.tel"></span>
           <p class="">+2348139667165</p>
         </div>
@@ -40,9 +40,9 @@
         </div>
         -->
        
-        <div class="flex space-x-2 p-3   text-zinc-700 sm:text-lg text-sm rounded-md bg-opacity-10 bg-black sm:rounded-lg ">
+        <div class="flex space-x-2 p-3 lg:text-[15px]  text-zinc-700 sm:text-lg text-sm rounded-md bg-opacity-10 bg-black sm:rounded-lg ">
           <div class="" v-html="images.git"></div>
-          <a href="https://github.com/sekani50" class="truncate">https://github.com/sekani50</a>
+          <a href=" https://linkedin.com/in/idris-adeoye" class="truncate"> https://linkedin.com/in/idris-adeoye</a>
         </div>
       </div>
     </div>

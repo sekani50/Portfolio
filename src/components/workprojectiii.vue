@@ -1,7 +1,7 @@
 <!-- eslint-disable -->
 <template>
   <div
-    class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FCF2E8] shadow-lg rounded-lg sm:rounded-xl px-4"
+    class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FFFFFF] shadow-lg rounded-lg sm:rounded-xl px-4"
   >
     <p
       class="uppercase text-lg sm:text-xl font-semibold pb-3 border-b-4 w-32 border-[#3452FF]"
@@ -10,12 +10,18 @@
     </p>
 
     <div class="mx-auto w-11/12 space-y-6">
-      <p class="text-sm sm:text-lg font-semibold">E-commerce Site</p>
+      <p class="text-sm sm:text-lg lg:text-[15px] font-semibold">E-commerce Site</p>
 
       <div class="w-4/5 h-2/3 rounded-md sm:w-3/4 sm:h-1/2">
         <img class="rounded-md " src="@/assets/images/Screenshot (251).png" />
       </div>
-      <div class="text-sm sm:text-lg space-y-3">
+      <div class="text-sm sm:text-lg lg:text-[15px] space-y-3">
+        <p>
+          Project link:
+          <a class="text-blue-600" href="https://chawkbclone.netlify.app/" target="_blank"
+            >https://chawkbclone.netlify.app/</a
+          >
+        </p>
         <p>A Chawkbazaar e-commerce site</p>
         <p>Technologies used include; HTML5/CSS, javascript, Vue and Vuex</p>
       </div>

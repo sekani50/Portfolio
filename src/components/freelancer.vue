@@ -2,7 +2,7 @@
 <template>
   <div class="lg:col-span-2 overflow-x-hidden lg:px-8 space-y-9">
     <div
-      class="h-fit py-24 sm:py-36 relative bg-[#FCF2E8] shadow-lg rounded-lg sm:rounded-xl px-4"
+      class="h-fit py-24 sm:py-36 relative bg-[#FFFFFF] shadow-lg rounded-lg sm:rounded-xl px-4"
     >
       <div class="w-[50%] h-[50%] inset-0 m-auto bg-none space-y-4">
         <div

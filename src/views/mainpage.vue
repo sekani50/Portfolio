@@ -57,7 +57,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background:#FCF2E8;
+  background:#FFFFFF;
   z-index:-100;
   
 }

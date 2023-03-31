@@ -1,7 +1,7 @@
 <!-- eslint-disable -->
 <template>
   <div
-    class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FCF2E8] shadow-lg rounded-lg sm:rounded-xl px-4"
+    class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FFFFFF] shadow-lg rounded-lg sm:rounded-xl px-4"
   >
     <p
       class="uppercase text-lg sm:text-xl font-semibold pb-3 border-b-4 w-48 border-[#3452FF]"
