@@ -1,4 +1,4 @@
-# nigis
+# Portfolio
 
 ## Project setup
 ```
