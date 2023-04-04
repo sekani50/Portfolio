@@ -4,9 +4,9 @@
     <div
       class="h-fit py-24 sm:py-36 relative bg-[#FFFFFF] shadow-lg rounded-lg sm:rounded-xl px-4"
     >
-      <div class="w-[50%] h-[50%] inset-0 m-auto bg-none space-y-4">
+      <div class="w-[50%] h-[50%] flex flex-col items-center justify-center inset-0 m-auto bg-none space-y-4">
         <div
-          class="clip h-52 w-52 sm:h-72 sm:w-72 rounded-full border-l-[#fee1c3] border-t-[#fee1c3] border-[20px] sm:border-[40px] border-b-[#3452FF] border-r-[#3452FF] m-auto"
+          class="clip h-44 w-44 sm:h-72 sm:w-72 rounded-full border-l-[#fee1c3] border-t-[#fee1c3] border-[20px] sm:border-[40px] border-b-[#3452FF] border-r-[#3452FF] m-auto"
         >
           <img
             class="object-cover rounded-full w-full h-full"

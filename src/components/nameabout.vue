@@ -29,7 +29,7 @@
         technologies
       </div>
       <div class="sm:space-y-6 space-y-3 lg:space-y-3">
-        <div class="flex space-x-2 p-3 lg:text-[15px] text-zinc-700 rounded-md sm:rounded-lg sm:text-lg text-sm w-full bg-opacity-10 bg-black">
+        <div class="flex space-x-2 p-3 lg:text-[15px] items-center text-zinc-700 rounded-md sm:rounded-lg sm:text-lg text-sm w-full bg-opacity-10 bg-black">
           <span class="" v-html="images.tel"></span>
           <p class="">+2348139667165</p>
         </div>
@@ -40,7 +40,7 @@
         </div>
         -->
        
-        <div class="flex space-x-2 p-3 lg:text-[15px]  text-zinc-700 sm:text-lg text-sm rounded-md bg-opacity-10 bg-black sm:rounded-lg ">
+        <div class="flex space-x-2 p-3 lg:text-[15px] items-center  text-zinc-700 sm:text-lg text-sm rounded-md bg-opacity-10 bg-black sm:rounded-lg ">
           <div class="" v-html="images.git"></div>
           <a href=" https://linkedin.com/in/idris-adeoye" class="truncate"> https://linkedin.com/in/idris-adeoye</a>
         </div>

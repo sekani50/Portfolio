@@ -12,10 +12,14 @@
 
     <div class="w-[97%] sm:w-11/12 m-auto space-y-6">
         <div class="text space-y-3">
-        <p class="uppercase font-semibold">E-commerce website</p>
+        <p class="uppercase font-semibold">JEKAET</p>
         <ul class=" space-y-2">
+        
         <li>Built a web app that provide visual appealing and easy usage for customers </li>
+        <li>The motive was to bring customers and food sellers together on a platform </li>
+        <li>The react web app was converted to a mobile app</li>
         <li>The code's components are structured for easy debugging and reusability</li>
+        <li>Developed the web applications using Javascript, React and Redux.</li>
     
         </ul>
 
