@@ -38,6 +38,19 @@
 
     </div>
 
+    <div class="text space-y-3 ">
+        <p class="uppercase font-semibold ">WAVE BUDGET</p>
+        <ul class=" space-y-2">
+        <li> Developed an e-commerce web application that has installmental payment features</li>
+       <li>Other features include; Online payment, Product sharing links</li>
+        <li>Developed the web applications using React, Redux and Firebase.</li>
+        <li>Developed and maintained reusable components for future use.</li>
+        <li>Conducted rigorous testing and debugging processes to ensure the highest quality of code</li>
+        <li>Optimized code for faster page loading speeds.</li>
+        </ul>
+
+    </div>
+
     </div>
    
 

@@ -6,20 +6,21 @@
     
 
     <div class="mx-auto w-11/12 space-y-6">
-      <p class="text-sm sm:text-lg lg:text-[15px] font-semibold">YouTube Clone</p>
+      <p class="text-sm sm:text-lg lg:text-[15px] font-semibold">Wave Budget</p>
 
       <div class="w-4/5 h-2/3 rounded-md sm:w-3/4 sm:h-1/2">
-        <img class="rounded-md "  src="@/assets/images/Screenshot (247).png" />
+        <img class="rounded-md "  src="@/assets/images/Screenshot (379).png" />
       </div>
       <div class="text-sm sm:text-lg lg:text-[15px] space-y-3">
         <p>
           Project link:
-          <a class="text-blue-600" href="https://preemytclone.netlify.app/" target="_blank"
-            >https://preemytclone.netlify.app/</a
+          <a class="text-blue-600" href="https://wavebudget.vercel.app/" target="_blank"
+            >https://wavebudget.vercel.app/</a
           >
         </p>
-        <p>A pixel perfect youtube clone using youtube api</p>
-        <p>Technologies used include; HTML5/CSS, javascript, REST API</p>
+        <p>An ecommerce app with installmental payment features</p>
+        <p>Technologies used include; REACT, REDUX, FIREBASE</p>
+        <p>No Figma provided. </p>
       </div>
     </div>
 

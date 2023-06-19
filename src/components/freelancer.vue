@@ -32,17 +32,20 @@
       <SkillTool />
     </div>
     <div>
-      <ExperRience />
-    </div>
-    <div>
-      <WorkProjectiii/>
+      <WorkProjectii />
     </div>
     <div>
       <WorkProject />
     </div>
+  
     <div>
-      <WorkProjectii />
+      <WorkProjectiii/>
     </div>
+    <div>
+      <ExperRience />
+    </div>
+   
+    
   </div>
 </template>
 <!--eslint-disable-->

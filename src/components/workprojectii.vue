@@ -4,22 +4,38 @@
     class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FFFFFF] shadow-lg rounded-lg sm:rounded-xl px-4"
   >
 
-
-    <div class=" mx-auto w-11/12 space-y-6">
-      <p class="text-sm sm:text-lg lg:text-[15px] font-semibold">Computer Based Test App</p>
+  <p
+      class="uppercase text-lg sm:text-xl font-semibold pb-3 border-b-4 w-56 border-[#3452FF]"
+    >
+      Works & Projects
+    </p>
+    <div class="mx-auto w-11/12 space-y-6">
+      <p class="text-sm sm:text-lg lg:text-[15px] font-semibold">Jekaeat App</p>
 
       <div class="w-4/5 h-2/3 rounded-md sm:w-3/4 sm:h-1/2">
-        <img class="rounded-md "  src="@/assets/images/Screenshot (250).png" />
+        <img class="rounded-md" src="@/assets/images/Screenshot (381).png" />
       </div>
       <div class="text-sm sm:text-lg lg:text-[15px] space-y-3">
         <p>
-          Project link:
-          <a class="text-blue-600" href="https://preemcbtapp.netlify.app/" target="_blank"
-            >https://preemcbtapp.netlify.app/</a
+          Work link:
+          <a
+            class="text-blue-600"
+            href="https://play.google.com/store/apps/details?id=com.jekaeat.jekaeat"
+            target="_blank"
+            >https://play.google.com/store/apps/details?id=com.jekaeat.jekaeat</a
           >
         </p>
-        <p>A CBT web application developed using question api</p>
-        <p>Technologies used include; HTML5/CSS, javascript, REST api</p>
+        <p>An app for buying and selling food</p>
+        <p>Technologies used include; REACT, REDUX, Web app converter</p>
+        <p>
+          Figma Url:
+          <a
+            class="text-blue-600"
+            href="https://www.figma.com/file/QLF97iYKdPsMnlHf5uv0sO/JEKAEAT"
+            target="_blank"
+            >https://www.figma.com/file/QLF97iYKdPsMnlHf5uv0sO/JEKAEAT</a
+          >
+        </p>
       </div>
     </div>
   </div>

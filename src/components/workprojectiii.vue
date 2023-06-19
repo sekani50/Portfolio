@@ -3,12 +3,7 @@
   <div
     class="h-fit overflow-hidden py-8 space-y-10 text-zinc-700 relative bg-[#FFFFFF] shadow-lg rounded-lg sm:rounded-xl px-4"
   >
-    <p
-      class="uppercase text-lg sm:text-xl font-semibold pb-3 border-b-4 w-32 border-[#3452FF]"
-    >
-      Projects
-    </p>
-
+   
     <div class="mx-auto w-11/12 space-y-6">
       <p class="text-sm sm:text-lg lg:text-[15px] font-semibold">E-commerce Site</p>
 
@@ -24,6 +19,9 @@
         </p>
         <p>A Chawkbazaar e-commerce site</p>
         <p>Technologies used include; HTML5/CSS, javascript, Vue and Vuex</p>
+        <p>This is actual website link:  <a class="text-blue-600" href="https://chawkbazar.vercel.app/" target="_blank"
+            >https://chawkbazar.vercel.app/</a
+          > </p>
       </div>
     </div>
   </div>
