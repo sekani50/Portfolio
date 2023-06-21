@@ -8,7 +8,7 @@
   <div class="w-[97%] mx-auto sm:w-11/12 space-y-6">
     <div class="text-zinc-700 bg-black bg-opacity-10 leading-6 sm:leading-10 sm:text-lg text-sm lg:text-[15px] p-3 rounded-l-none sm:rounded-l-none   sm:rounded-r-lg rounded-md sm:rounded-lg border-l-4 border-l-[#3452FF]">
     I'm an
-     experienced and passionate Front-End Developer. I'm always eager to apply my
+     a passionate Front-End Developer with a minimum of 3 years experience . I'm always eager to apply my
       technical knowledge and expertise to create innovative and engaging web experiences. 
       I'm highly organized, detail-oriented and have excellent communicating and problem solving skills. I work well in a team environment
        and able to handle multiple tasks and projects at the same time.
